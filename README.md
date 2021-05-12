@@ -29,6 +29,6 @@
 
 <p align = "center">
   Show ❤️ by starring repositories you find good! <br/>
-⭐️ From Jamwant Yadav <br/>
+⭐️ From Jamwant Yadav  <br/>
 Also, star and fork this repository if you wish to give this new feature a try! <br/>
 </p>
