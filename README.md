@@ -6,8 +6,10 @@
 - 🤔 I’m looking for help with ... Node.js
 - 📫 How to reach me: ... jamwant.1995@gmail.com
   <p>
-  <a href="https://www.linkedin.com/in/jamwant/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/itsjamwant"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <h4>Reach me</h4>
+  <a href="https://www.linkedin.com/in/jamwant/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/itsjamwant"><img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://jamwant.netlify.app/"><img src="https://img.icons8.com/ios-filled/24/000000/portfolio.png"/></a>
 </p>
   <h4> 🔭<samp> Tech Stack</samp></h4>
   <p >
